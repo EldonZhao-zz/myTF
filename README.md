@@ -1,2 +1,2 @@
 # tensorflow-demo
-A tensorflow study reposi
+A tensorflow study repository
