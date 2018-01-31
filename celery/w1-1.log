@@ -1,0 +1,6 @@
+[2018-01-30 03:43:52,280: INFO/ForkPoolWorker-1] Task tasks.mul[fd52063a-03ed-4da2-8e3f-641d39f892f2] succeeded in 100.1105322s: 45
+[2018-01-30 03:56:39,030: INFO/ForkPoolWorker-1] Task tasks.add[8a36902c-7d13-4e8d-ac5f-db6ef7954d65] succeeded in 0.00949759999639s: 4
+[2018-01-30 03:59:33,659: INFO/ForkPoolWorker-1] Task tasks.add[5f7f9a46-a4c6-4b47-8bb1-b981d492120b] succeeded in 0.025642200002s: 10
+[2018-01-30 04:00:12,403: INFO/ForkPoolWorker-1] Task tasks.add[c10a5e9b-3c8c-4ac1-a473-32d65a6490c1] succeeded in 0.0110941000021s: 7
+[2018-01-30 06:50:15,500: INFO/ForkPoolWorker-1] Task tasks.mul[936d219b-5393-45c2-9dbd-a03e72359c67] succeeded in 100.1317116s: 45
+[2018-01-30 09:30:19,883: INFO/ForkPoolWorker-1] Task tasks.mul[be923bb4-99ae-47e7-9e80-6c9b3c182657] succeeded in 9.0276987s: 3

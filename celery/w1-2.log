@@ -1,0 +1,4 @@
+[2018-01-30 03:34:05,459: INFO/ForkPoolWorker-2] Task tasks.add[960fcfac-5ee3-41fe-a433-0dd859dba10b] succeeded in 0.0393265999992s: 4
+[2018-01-30 03:37:14,085: INFO/ForkPoolWorker-2] Task tasks.add[c67e2f32-81db-41c7-8e74-e1969ba11314] succeeded in 0.0123409000007s: 4
+[2018-01-30 03:37:26,115: INFO/ForkPoolWorker-2] Task tasks.add[f4bbf7f6-0f05-4d19-9bd7-8add8db15cc3] succeeded in 0.00952659999894s: 4
+[2018-01-30 09:30:25,809: INFO/ForkPoolWorker-2] Task tasks.mul[6ec14940-248d-455d-8cc5-1c0573cc5371] succeeded in 9.041244s: 3

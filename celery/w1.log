@@ -1,0 +1,22 @@
+[2018-01-30 03:31:10,824: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2018-01-30 03:31:10,835: INFO/MainProcess] mingle: searching for neighbors
+[2018-01-30 03:31:11,868: INFO/MainProcess] mingle: all alone
+[2018-01-30 03:31:11,898: INFO/MainProcess] w1@04dccb20f338 ready.
+[2018-01-30 03:34:05,416: INFO/MainProcess] Received task: tasks.add[960fcfac-5ee3-41fe-a433-0dd859dba10b]  
+[2018-01-30 03:37:14,071: INFO/MainProcess] Received task: tasks.add[c67e2f32-81db-41c7-8e74-e1969ba11314]  
+[2018-01-30 03:37:26,105: INFO/MainProcess] Received task: tasks.add[f4bbf7f6-0f05-4d19-9bd7-8add8db15cc3]  
+[2018-01-30 03:41:16,005: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2018-01-30 03:41:16,016: INFO/MainProcess] mingle: searching for neighbors
+[2018-01-30 03:41:17,041: INFO/MainProcess] mingle: all alone
+[2018-01-30 03:41:17,067: INFO/MainProcess] w1@04dccb20f338 ready.
+[2018-01-30 03:42:12,167: INFO/MainProcess] Received task: tasks.mul[fd52063a-03ed-4da2-8e3f-641d39f892f2]  
+[2018-01-30 03:56:39,020: INFO/MainProcess] Received task: tasks.add[8a36902c-7d13-4e8d-ac5f-db6ef7954d65]  
+[2018-01-30 03:59:33,632: INFO/MainProcess] Received task: tasks.add[5f7f9a46-a4c6-4b47-8bb1-b981d492120b]  
+[2018-01-30 04:00:12,391: INFO/MainProcess] Received task: tasks.add[c10a5e9b-3c8c-4ac1-a473-32d65a6490c1]  
+[2018-01-30 06:42:31,185: INFO/MainProcess] Connected to amqp://guest:**@127.0.0.1:5672//
+[2018-01-30 06:42:31,195: INFO/MainProcess] mingle: searching for neighbors
+[2018-01-30 06:42:32,227: INFO/MainProcess] mingle: all alone
+[2018-01-30 06:42:32,257: INFO/MainProcess] w1@04dccb20f338 ready.
+[2018-01-30 06:48:35,366: INFO/MainProcess] Received task: tasks.mul[936d219b-5393-45c2-9dbd-a03e72359c67]  
+[2018-01-30 09:30:10,853: INFO/MainProcess] Received task: tasks.mul[be923bb4-99ae-47e7-9e80-6c9b3c182657]  
+[2018-01-30 09:30:16,766: INFO/MainProcess] Received task: tasks.mul[6ec14940-248d-455d-8cc5-1c0573cc5371]  
