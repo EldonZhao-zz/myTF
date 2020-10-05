@@ -1,2 +1,1 @@
-# tensorflow-demo
-A tensorflow study repository
+# TF(TensorFlow) Study
