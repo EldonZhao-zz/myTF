@@ -1,1 +1,2 @@
-# TF(TensorFlow) Study
+# myTF
+A repository for studying tensorflow.
